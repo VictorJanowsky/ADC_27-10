@@ -12,6 +12,7 @@
 
 e uma tara de sabor
 
- [tara perdida] (https://www.youtube.com/watch?v=WKM07iNFoKY)
- 
+[tara perdida](https://www.youtube.com/watch?v=WKM07iNFoKY)
+
+
 
