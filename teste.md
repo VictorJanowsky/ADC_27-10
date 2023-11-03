@@ -20,4 +20,4 @@ print(("Batata frita pala pala")
 print("é uma tara de sabor"))
 ```
 
-![alt](7571550-frente.jpag)
+![](7571550-frente.jpag)
